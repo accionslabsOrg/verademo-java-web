@@ -1,7 +1,7 @@
 # VeraDemo - Blab-a-Gag
 
 ## About
-dsddd
+dsddds
 Blab-a-Gag is a fairly simple forum type application which allows:.dssdssdsssddss as
  - users to post a one-liner jokedd
  - users to follow the jokes of other users or not (listen or ignore)
