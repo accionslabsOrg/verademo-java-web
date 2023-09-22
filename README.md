@@ -3,7 +3,7 @@
 ## About
 dsddd
 Blab-a-Gag is a fairly simple forum type application which allows:.dssdssdsssdd
- - users to post a one-liner joke
+ - users to post a one-liner jokedd
  - users to follow the jokes of other users or not (listen or ignore)
  - users to comment on other users messages (heckle)
  
